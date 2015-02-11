@@ -1,2 +1,2 @@
 # TestGitHub
-Github tutorial
+This folder demonstrates the bare minimum of github ...
